@@ -1,0 +1,4 @@
+valid@example.com
+user123@example.com
+test@gmail.com
+jyoth@gail.com.com

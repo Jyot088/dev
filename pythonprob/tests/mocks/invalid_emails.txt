@@ -1,0 +1,5 @@
+invalid_email.com
+user@example
+@example.com
+user@.com
+jos@gmail.com.com

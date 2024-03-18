@@ -1,0 +1,5 @@
+# Ignore python cache files
+_pycache_/
+
+# Ignore visual studio code 
+.vscode/
