@@ -1,0 +1,9 @@
+{"users":[
+    {"id":1, "name":"Jyothsna", "email":"josna@gmail.com", "age":"22"},
+     {"id":2, "name":"sweeedal", "email":"sweedala@gmail.com", "age":"22"},
+      {"id":3, "name":"chithritha", "email":"chithu@gmail.com", "age":"23"},
+      {"id":4, "name":"Neha", "email":"neha@gmail.com", "age":"23"},
+      {"id":5, "name":"manasa", "email":"manasa@gmail.com", "age":"22"},
+      {"id":6, "name":"rashmitha", "email":"rash@gmail.com", "age":"22"}
+]
+}
